@@ -1,0 +1,96 @@
+html{
+    margin: 0;
+    padding: 0;
+    text-align:  center;
+    font-size: 75%;
+    height: 100%;
+}
+
+body{
+    box-sizing: border-box;
+    font-display: "Segoe UI",Helvetica;
+    font-family:cambria;
+    background: linear-gradient(to bottom,DarkCyan,white);
+}
+
+h1#title{
+    font-size: 50px;
+    color: black;
+}
+
+input#todo {
+    padding:8px;
+    border-radius: 10px;
+    border:1px solid #222;
+    box-shadow: 5px 5px grey;
+   
+}
+
+ul#todolist{
+  list-style-type: none;
+  padding: 0;
+  max-width: 900px;
+  margin: auto;
+  margin-bottom: 50px;
+  font-size:12px;
+
+}
+
+ul#todolist li{
+    text-align: left;
+    border-bottom: 1px solid #dedede;
+    padding: 10px 0px;
+    cursor: pointer;
+    max-width: 400 px;
+}
+li.completed{
+    text-decoration: line-through;
+    color: SeaGreen;
+}
+
+ul#todolist li span.completed:after{
+    content: '\01F5F8';
+    color: SeaGreen;
+    font-size: 30px;
+    padding: 4px;
+
+}
+
+ul#todolist li span.uncompleted:after{
+    content: '\0025A1';
+    color: SeaGreen;
+    font-size: 30px;
+    padding: 4px;
+
+}
+ul#todolist li:hover span.cross:after{
+    content: '\02717';
+    color: red;
+    font-size: 20px;
+    padding: 2px;
+    float: right;
+    margin-right: 5px;
+
+
+}
+
+button{
+
+    color: black;
+    background :GhostWhite;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    width: auto;
+    font-size: 12px;
+    font-family: cambria;
+    box-shadow:  5px 5px #dedede;
+
+
+}
+
+button.active {
+    background :darkred;
+    color: white;
+}
+
