@@ -4,7 +4,7 @@ JavaScript  è un linguaggio di programmazione, interpretato, orientato agli ogg
 Il linguaggio è prototype-based,  è  dinamico, imperativo, e il offre uno stile di programmazione funzionale.
 
 
-## TO DO LIST 1.0
+## MY TODO LIST 1.0
 
 ### Progetto 1
 
