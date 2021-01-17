@@ -6,8 +6,14 @@ Il linguaggio è prototype-based,  è  dinamico, imperativo, e il offre uno stil
 
 ## TO DO LIST 1.0
 
+### Progetto 1
+
 ![step1](https://github.com/MariaPantone/Javascript_projects/blob/main/Img_todolist.JPG)
 
 ## GAME PONG
 
+### Progetto 2
+
 ![step2](https://github.com/MariaPantone/Javascript_projects/blob/main/Game_pong1.JPG)
+
+![step2](https://github.com/MariaPantone/Javascript_projects/blob/main/Game_pong.JPG)
