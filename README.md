@@ -7,3 +7,4 @@ Il linguaggio è prototype-based,  è  dinamico, imperativo, e il offre uno stil
 ## TO DO LIST 1.0
 
 
+(https://github.com/MariaPantone/Javascript_projects/blob/main/Img_todolist.JPG)
